@@ -38,14 +38,9 @@ The project follows a step-by-step approach:
 The project including the dataset and notebook is available here:  
 [ Google Drive Link](https://drive.google.com/drive/folders/1my3OYdsaxDCcyOwQr5DvgozO2ApArOAG?usp=drive_link)
 
-## Future Improvements
-- Add user profile features (age, gender)
-- Include collaborative filtering matrix factorization
-- Build a Streamlit or FastAPI interface
-
 ---
 
-Feel free to use or modify this notebook for your own projects. Star ⭐ this repo if you find it useful!
+Feel free to use or modify this notebook for your own projects. Star this repo if you find it useful!
 
 ---
 
