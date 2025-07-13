@@ -36,7 +36,7 @@ The project follows a step-by-step approach:
 
 ## Google Drive Project Folder
 The project including the dataset and notebook is available here:  
-[ Google Drive Link]([https://drive.google.com/drive/folders/1my3OYdsaxDCcyOwQr5DvgozO2ApArOAG?usp=sharing](https://drive.google.com/drive/folders/1my3OYdsaxDCcyOwQr5DvgozO2ApArOAG?usp=sharing))
+[ Google Drive Link]([https://drive.google.com/drive/folders/1my3OYdsaxDCcyOwQr5DvgozO2ApArOAG?usp=sharing](https://drive.google.com/drive/folders/1my3OYdsaxDCcyOwQr5DvgozO2ApArOAG?usp=sharing])
 
 ## Future Improvements
 - Add user profile features (age, gender)
