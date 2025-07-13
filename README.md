@@ -33,11 +33,6 @@ The project follows a step-by-step approach:
 - **Gradient Boosting RMSE**: ~1.047
 - Model performance improved after including genre and semantic title embeddings
 
-## Project Structure
-sample_rs.ipynb # Main notebook
-ml-100k/ # Extracted MovieLens dataset
-README.md # This file
-
 
 ## Google Drive Project Folder
 The project including the dataset and notebook is available here:  
